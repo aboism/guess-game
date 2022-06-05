@@ -10,7 +10,7 @@ function checkGuess() {
     }
     
     if (guess === number) {
-        document.querySelector(".answer").innerHTML = "That's right!";
+        document.querySelector(".answer").innerHTML = "Yup! it's" + number + " :)";
         document.querySelector("body").style.backgroundColor = "#60b347"
         won = true;
     } else if (guess > number) {
