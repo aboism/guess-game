@@ -1,0 +1,36 @@
+body {
+  background-color: #7b97dd;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input {
+  padding: 8px;
+  border: none;
+  border-radius: 3px;
+  outline: none;
+}
+
+.btn {
+  background-color: #eedf5a;
+}
+
+.reset {
+  padding: 8px;
+  border: none;
+  border-radius: 3px;
+  outline: none;
+  background-color: #ff4a4a;
+}
