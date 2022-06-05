@@ -1,3 +1,3 @@
 # guess-game
-Guess the random generated number
+Guess the random generated number.  
 https://aboism.github.io/guess-game/
