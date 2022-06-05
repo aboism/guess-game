@@ -34,3 +34,13 @@ body {
   outline: none;
   background-color: #ff4a4a;
 }
+
+.link {
+  margin: 20px;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px;
+  color: black;
+}
